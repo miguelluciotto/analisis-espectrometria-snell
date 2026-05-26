@@ -11,7 +11,7 @@ env/
 .venv/
 .env/
 
-# Archivos de configuración del sistema operativo
+# Archivos de configuración
 .DS_Store
 Thumbs.db
 
@@ -22,3 +22,6 @@ Thumbs.db
 *.synctex.gz
 *.fls
 *.fdb_latexmk
+
+# Archivos innecesarios
+*.pdf
